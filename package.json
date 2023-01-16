@@ -1,6 +1,6 @@
 {
   "name": "react-validations-form",
-  "version": "0.1.1",
+  "version": "1.1.1",
   "description": "React application custom three dimension valistions with advance feature, it is use to do the custom validation of form with react technology ",
   "main": "dist/index.js",
   "scripts": {
@@ -13,6 +13,10 @@
     "react-validation-form",
     "react-form-validation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myminds/react-validations-form.git"
+  },
   "author": "gps solutions",
   "license": "ISC",
   "dependencies": {
